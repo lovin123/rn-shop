@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "rn-shop",
-    "scheme": "your-app-scheme",
+    "scheme": "rn-shop",
     "slug": "rn-shop",
     "version": "1.0.0",
     "orientation": "portrait",
